@@ -13,7 +13,9 @@
 
 [my live site](https://bushra-albadareen.github.io/readings-note/)
 
-growth mindse | [link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+Git Tutorial| [link](https://bushra-albadareen.github.io/readings-note/GitTutorial)
  --------------| ----------------------------------------------------------------------
- markdown on github | [link](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
- gitting startted | [link](https://guides.github.com/features/pages/)
+ masteringmarkdown | [link](https://bushra-albadareen.github.io/readings-note/masteringmarkdown)
+ Html-CSS| [link](https://bushra-albadareen.github.io/readings-note/Html-CSS)
+ 
+
