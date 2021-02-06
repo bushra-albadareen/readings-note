@@ -6,20 +6,17 @@
 
 [my live site](https://bushra-albadareen.github.io/readings-note/)
 
-title | link
+title| link
  --------------| ----------------------------------------------------------------------
- code 102 reading note|---------------------------------------
- 
- GitTutorial | [link](https://bushra-albadareen.github.io/readings-note/GitTutorial)
+ code| 102 reading note
+ GitTutorial| [link](https://bushra-albadareen.github.io/readings-note/GitTutorial)
  masteringmarkdown | [link](https://bushra-albadareen.github.io/readings-note/masteringmarkdown)
  Html-CSS| [link](https://bushra-albadareen.github.io/readings-note/Html-CSS)
  java|[Link](https://bushra-albadareen.github.io/readings-note/java)
  loops|[link](https://bushra-albadareen.github.io/readings-note/loops)
  CSS|[link](https://bushra-albadareen.github.io/readings-note/CSS)
  function|[link](https://bushra-albadareen.github.io/readings-note/function)
- 
- code 201 reading note|-----------------------------------------
- 
+ code|201 reading note
  calss-01| [link](https://bushra-albadareen.github.io/readings-note/calss-01)
  
 
