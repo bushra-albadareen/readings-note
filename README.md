@@ -1,13 +1,6 @@
 # readings-note
-## Growth Mindset
- mindset is your collection of thoughts and beliefs that shape your thought habits.  And your thought habits affect how you think, what you feel, and what you do.  Your mind-set impacts how you make sense of the world, and how you make sense of you.
-##  away to keep yourself in a growth mindset
 
-* Acknowledge and embrace imperfections.
-
-* View challenges as opportunities.
-
-* Try different learning tactics.
+"Web development" is the work involved in developing a Web site for the Internet (World Wide Web) or an intranet (a private network). Every Web Developer must have a basic understanding of HTML, CSS, and JavaScript.
 
 **bushra albadareen**
 
@@ -15,6 +8,8 @@
 
 title | link
  --------------| ----------------------------------------------------------------------
+ code 102 reading note|---------------------------------------
+ 
  GitTutorial | [link](https://bushra-albadareen.github.io/readings-note/GitTutorial)
  masteringmarkdown | [link](https://bushra-albadareen.github.io/readings-note/masteringmarkdown)
  Html-CSS| [link](https://bushra-albadareen.github.io/readings-note/Html-CSS)
@@ -22,6 +17,9 @@ title | link
  loops|[link](https://bushra-albadareen.github.io/readings-note/loops)
  CSS|[link](https://bushra-albadareen.github.io/readings-note/CSS)
  function|[link](https://bushra-albadareen.github.io/readings-note/function)
+ 
+ code 201 reading note|-----------------------------------------
+ 
  calss-01| [link](https://bushra-albadareen.github.io/readings-note/calss-01)
  
 
