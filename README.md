@@ -13,10 +13,14 @@
 
 [my live site](https://bushra-albadareen.github.io/readings-note/)
 
-Git Tutorial| [link](https://bushra-albadareen.github.io/readings-note/GitTutorial)
+Git Tutorial| [link](https://bushra-albadareen.github.io/readings-note/Git Tutorial)
  --------------| ----------------------------------------------------------------------
  masteringmarkdown | [link](https://bushra-albadareen.github.io/readings-note/masteringmarkdown)
  Html-CSS| [link](https://bushra-albadareen.github.io/readings-note/Html-CSS)
- calss-01| [link](https:https://github.com/bushra-albadareen/readings-note/blob/main/class-01.md)
+ java|[Link](https://bushra-albadareen.github.io/readings-note/java)
+ loops|[link](https://bushra-albadareen.github.io/readings-note/loops)
+ CSS|[link](https://bushra-albadareen.github.io/readings-note/CSS)
+ function|[link](https://bushra-albadareen.github.io/readings-note/function)
+ calss-01| [link](https://bushra-albadareen.github.io/readings-note/calss-01)
  
 
