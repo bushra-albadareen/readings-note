@@ -17,5 +17,6 @@ Git Tutorial| [link](https://bushra-albadareen.github.io/readings-note/GitTutori
  --------------| ----------------------------------------------------------------------
  masteringmarkdown | [link](https://bushra-albadareen.github.io/readings-note/masteringmarkdown)
  Html-CSS| [link](https://bushra-albadareen.github.io/readings-note/Html-CSS)
+ calss-01| [link](https:https://github.com/bushra-albadareen/readings-note/blob/main/class-01.md)
  
 
