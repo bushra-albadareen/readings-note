@@ -13,8 +13,9 @@
 
 [my live site](https://bushra-albadareen.github.io/readings-note/)
 
-Git Tutorial| [link](https://bushra-albadareen.github.io/readings-note/Git Tutorial)
+title | link
  --------------| ----------------------------------------------------------------------
+ GitTutorial | [link](https://bushra-albadareen.github.io/readings-note/GitTutorial)
  masteringmarkdown | [link](https://bushra-albadareen.github.io/readings-note/masteringmarkdown)
  Html-CSS| [link](https://bushra-albadareen.github.io/readings-note/Html-CSS)
  java|[Link](https://bushra-albadareen.github.io/readings-note/java)
