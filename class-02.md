@@ -15,8 +15,8 @@ indicate what these elements should look like).
 
 # javascript
 
-- The HTML <script> tag is used to define a client-side script (JavaScript).
-The <script> element either contains script statements, or it points to an external script file through the src attribute. Common uses for JavaScript are image manipulation, form validation, and dynamic changes of content.To select an HTML element, JavaScript most often uses the document.getElementById() method.
+- The HTML script tag is used to define a client-side script (JavaScript).
+The script element either contains script statements, or it points to an external script file through the src attribute. Common uses for JavaScript are image manipulation, form validation, and dynamic changes of content.To select an HTML element, JavaScript most often uses the document.getElementById() method.
 
 - JavaScript variables are containers for storing data values. x, y, and z, are variables, declared with the var/ let keyword.
 
